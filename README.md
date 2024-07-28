@@ -1,4 +1,4 @@
-# SubSearcher
+# SubSearcher - Mass Subdomain Scanner Bash Script
 
 ![](./SubSearcher.png)
 
