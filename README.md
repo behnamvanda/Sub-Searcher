@@ -12,7 +12,7 @@ bash SubSearcher.sh targets.txt
 ```
 > Note : Targets should not include http/https/www !
 
-## Reference
+## Requirments
 
 *  [https://www.sophos.com/en-us/security-advisories/sophos-sa-20230404-swa-rce](https://www.sophos.com/en-us/security-advisories/sophos-sa-20230404-swa-rce)
 *   [https://vulncheck.com/blog/cve-2023-1671-analysis](https://vulncheck.com/blog/cve-2023-1671-analysis)
