@@ -10,9 +10,9 @@ SubSearcher is a bash script designed to efficiently discover subdomains associa
 ```
 bash SubSearcher.sh targets.txt
 ```
-> Note1 : Targets should not include http/https/www !
+> Note1 : Targets should not include http/https/www 
 
-> Note2 : Insert your Shodan API key into the SubSearcher.sh script at the SHODAN_APIKEY variable.
+> Note2 : Insert your Shodan API key into the SubSearcher.sh script (SHODAN_APIKEY variable).
 
 ## Requirments
 
