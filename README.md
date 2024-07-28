@@ -16,7 +16,7 @@ bash SubSearcher.sh targets.txt
 
 ## Requirments
 
-this tool used assetfinder;
+this tool utilizes assetfinder;
 ```
 sudo apt install assetfinder
 ```
